@@ -1,0 +1,26 @@
+main{
+}
+ul{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    list-style-type:none;
+}
+*{
+    list-style-type:none;
+}
+.cd{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.cd ul{
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+}
